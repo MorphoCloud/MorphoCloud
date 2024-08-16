@@ -1,6 +1,6 @@
 ## MorphoCloud
 
-Cloud-based services for 3D digital morphology and morphometrics researched powered by [JetStream2](https://docs.jetstream-cloud.org/).
+Cloud-based services for 3D digital morphology and morphometrics researched powered by [JetStream2](https://docs.jetstream-cloud.org/), [3D Slicer](https://slicer.org) and [SlicerMorph](https://github.com/SlicerMorph/SlicerMorph).
 
 ### FUNDING ACKNOWLEDGEMENT
 
